@@ -1,0 +1,16 @@
+ID,Title,Difficulty,Company,Acceptance Rate,Frequency,Link,Topics
+1,Two Sum,Easy,Google,54.2%,98.5,https://leetcode.com/problems/two-sum/,Array;Hash Table
+2,Add Two Numbers,Medium,Amazon,42.8%,88.2,https://leetcode.com/problems/add-two-numbers/,Linked List;Math;Recursion
+3,Longest Substring Without Repeating Characters,Medium,Amazon,35.1%,92.4,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Hash Table;String;Sliding Window
+4,Median of Two Sorted Arrays,Hard,Google,39.6%,74.1,https://leetcode.com/problems/median-of-two-sorted-arrays/,Array;Binary Search;Divide and Conquer
+5,Longest Palindromic Substring,Medium,Microsoft,34.2%,85.6,https://leetcode.com/problems/longest-palindromic-substring/,String;Dynamic Programming
+15,3Sum,Medium,Amazon,34.5%,95.1,https://leetcode.com/problems/3sum/,Array;Two Pointers;Sorting
+21,Merge Two Sorted Lists,Easy,Microsoft,64.2%,89.3,https://leetcode.com/problems/merge-two-sorted-lists/,Linked List;Recursion
+23,Merge k Sorted Lists,Hard,Uber,49.8%,81.5,https://leetcode.com/problems/merge-k-sorted-lists/,Linked List;Divide and Conquer;Heap
+42,Trapping Rain Water,Hard,Google,61.5%,96.8,https://leetcode.com/problems/trapping-rain-water/,Array;Two Pointers;Dynamic Programming;Stack
+53,Maximum Subarray,Medium,Amazon,51.0%,87.2,https://leetcode.com/problems/maximum-subarray/,Array;Divide and Conquer;Dynamic Programming
+121,Best Time to Buy and Sell Stock,Easy,Microsoft,54.0%,91.0,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Array;Dynamic Programming
+146,LRU Cache,Medium,Amazon,43.2%,97.4,https://leetcode.com/problems/lru-cache/,Hash Table;Linked List;Design;Doubly-Linked List
+200,Number of Islands,Medium,Amazon,58.8%,94.5,https://leetcode.com/problems/number-of-islands/,Array;DFS;BFS;Union Find;Matrix
+206,Reverse Linked List,Easy,Adobe,76.5%,85.0,https://leetcode.com/problems/reverse-linked-list/,Linked List;Recursion
+236,Lowest Common Ancestor of a Binary Tree,Medium,Microsoft,62.1%,88.9,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Tree;Binary Tree;DFS
